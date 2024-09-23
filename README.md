@@ -16,4 +16,5 @@ This project focuses on detecting car license plates in real-time traffic videos
 ## Demo
 
 
+![download](https://github.com/user-attachments/assets/a4778c08-3c58-474b-9349-b75b31feb924)
 
